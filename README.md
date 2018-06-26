@@ -1,2 +1,1 @@
-# problemsInJava
-Solving programming problems in Java
+# Crux-Noida-2018-Summer-Morning
